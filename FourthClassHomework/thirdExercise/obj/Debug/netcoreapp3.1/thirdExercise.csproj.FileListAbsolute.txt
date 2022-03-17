@@ -1,0 +1,28 @@
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.exe
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.genruntimeconfig.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.exe
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\bin\Debug\netcoreapp3.1\thirdExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\thirdExercise\obj\Debug\netcoreapp3.1\thirdExercise.genruntimeconfig.cache

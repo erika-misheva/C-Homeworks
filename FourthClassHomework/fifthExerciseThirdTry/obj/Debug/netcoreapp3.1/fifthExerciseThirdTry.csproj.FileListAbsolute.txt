@@ -1,0 +1,14 @@
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.exe
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\bin\Debug\netcoreapp3.1\fifthExerciseThirdTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseThirdTry\obj\Debug\netcoreapp3.1\fifthExerciseThirdTry.genruntimeconfig.cache

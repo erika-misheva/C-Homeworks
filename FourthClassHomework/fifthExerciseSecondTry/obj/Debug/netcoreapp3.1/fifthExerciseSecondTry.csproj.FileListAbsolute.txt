@@ -1,0 +1,28 @@
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.exe
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.genruntimeconfig.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.exe
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.dll
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\bin\Debug\netcoreapp3.1\fifthExerciseSecondTry.pdb
+C:\Users\Erika\Desktop\programming\backend .net\FourthClassHomework\fifthExerciseSecondTry\obj\Debug\netcoreapp3.1\fifthExerciseSecondTry.genruntimeconfig.cache

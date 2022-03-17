@@ -1,0 +1,14 @@
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.exe
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.deps.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.runtimeconfig.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.runtimeconfig.dev.json
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.AssemblyInfo.cs
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.dll
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.pdb
+C:\Users\Erika\Desktop\programming\backend .net\fourth class\FourthClassHomework\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.genruntimeconfig.cache
